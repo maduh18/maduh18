@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @maduh18
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Me chamo Maria Eduarda
+- 👀 Tenho interesse em fazer Educação Fisica ou Adiministraçao
+- 🌱 tenho 18 anos 
+- 💞️ Frase Assim como a lua a vida è feita de fases
+- 📫  dudaharaujoleite@gmail.com
+- 😄 Pode me chamar de  maduh18 o uDudah 
+- ⚡ Gosto de jogar bola , passar tempo com a familia, ler e assistir filmes e series
 
 <!---
-maduh18/maduh18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+maduh18/maduh18 is a ✨ special ✨ repository because its `README.md
 --->
